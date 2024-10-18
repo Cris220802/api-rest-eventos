@@ -1,0 +1,7 @@
+com\upiiz\examen\eventos\eventos\EventosApplication.class
+com\upiiz\examen\eventos\eventos\validation\ValidMongoID.class
+com\upiiz\examen\eventos\eventos\service\EventoService.class
+com\upiiz\examen\eventos\eventos\controllers\EventoController.class
+com\upiiz\examen\eventos\eventos\repository\EventoRepository.class
+com\upiiz\examen\eventos\eventos\model\Evento.class
+com\upiiz\examen\eventos\eventos\validation\MongoIdValidator.class
